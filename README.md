@@ -1,4 +1,4 @@
-# Scheduling-Scoil-Media-Posts-using-Make.com
+# Scheduling-Social-Media-Posts-using-Make.com
 create a robust and efficient solution for scheduling social media posts. The ideal candidate will design an automation workflow using Make.com (formerly Integromat) to schedule and publish posts to Bluesky, Twitter, and Threads based on data from an Excel spreadsheet. This project has the potential to expand into additional AI-driven automation projects in the future.
 
 Responsibilities:
